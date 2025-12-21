@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Reimps
+# 👋 Hey, I'm Reimo
 
 ## About Me
 I’m a **self-taught developer** who codes mainly for fun.  
