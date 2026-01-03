@@ -12,4 +12,4 @@ Running in: https://discord.gg/AYbDNEWgHE
 
 Always learning by building.
 
-![](https://komarev.com/ghpvc/?username=cqlnx&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=cqlnx-alt&style=for-the-badge)
