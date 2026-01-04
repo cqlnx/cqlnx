@@ -7,9 +7,10 @@
 **Languages:** Python, JavaScript, HTML
 
 **Main project:**  
-A Discord bot that gives random Minecraft servers and checks whitelist status using the username popiiumaa, built using **Mineflayer** and **mcscans.fi** api.  
-Running in: https://discord.gg/AYbDNEWgHE<br>
-Api for the project: https://mcapi.shit.vc/docs
+A discord bot and public API that discover random Minecraft servers and analyze basic server behavior, including whitelist and authentication mode detection.
+Info: https://popiiumaa.bot.nu/
+Discord: https://discord.gg/AYbDNEWgHE
+API: https://mcapi.shit.vc/docs
 
 Always learning by building.
 
