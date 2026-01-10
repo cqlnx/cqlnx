@@ -2,7 +2,7 @@
 
 👋 Self-taught developer coding mostly for fun.
 
-🌐 **Website:** https://reimopro.vercel.app
+🌐 **Website:** https://reimopro.site
 
 **Languages:** Python, JavaScript, HTML
 
