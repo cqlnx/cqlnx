@@ -8,7 +8,7 @@
 
 **Main project:**  
 A discord bot and public API that discover random Minecraft servers and analyze basic server behavior, including whitelist and authentication mode detection.<br>
-Info: https://who-is-popiiumaa.vercel.app/<br>
+Info: https://reimopro.site/popiiumaa<br>
 Discord: https://discord.gg/AYbDNEWgHE<br>
 API: https://mcapi.shit.vc/docs
 
