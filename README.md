@@ -1,17 +1,38 @@
-# Reimps
+# McUptime
 
-👋 Self-taught developer coding mostly for fun.
+👋 Real-time Minecraft server monitoring made simple.
 
-🌐 **Website:** https://reimopro.site
+🌐 **Website:** https://mcuptime.xyz
 
-**Languages:** Python, JavaScript, HTML
+**Tech Stack:** Node.js, Express, Supabase, JavaScript, Tailwind CSS
 
-**Main project:**  
-A discord bot and public API that discover random Minecraft servers and analyze basic server behavior, including whitelist and authentication mode detection.<br>
-Info: https://reimopro.site/popiiumaa<br>
-Discord: https://discord.gg/AYbDNEWgHE<br>
-API: https://mcapi.shit.vc/docs
+**Features:**  
+Monitor your Minecraft servers in real-time with Discord notifications, analytics dashboards, and custom alerts. Track uptime, player counts, and server health across Java and Bedrock editions.
 
-Always learning by building.
+**Quick Links:**  
+🔗 Website: https://mcuptime.xyz  
+💬 Discord: https://dsc.gg/mcuptime  
+📊 Documentation: https://mcuptime.xyz/docs
 
-![](https://komarev.com/ghpvc/?username=cqlnx-alt&style=for-the-badge)
+## Plans
+
+**Free** - Always free  
+✓ Monitor up to 5 servers  
+✓ 2-minute check intervals  
+✓ Real-time Discord notifications  
+✓ 7 days analytics history
+
+**Pro** - $4.99 one-time  
+✓ 100 servers  
+✓ 1-minute check intervals  
+✓ Custom status pages  
+✓ 30 days analytics history  
+✓ API access
+
+## About
+
+Built to make server monitoring accessible to everyone. No plugins needed, no server mods required. McUptime handles everything through the Minecraft server query protocol.
+
+Join the [Discord](https://dsc.gg/mcuptime) for support and updates!
+
+![](https://komarev.com/ghpvc/?username=reimopro&style=for-the-badge)
