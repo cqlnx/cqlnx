@@ -1,16 +1,17 @@
-## Hi there 👋
+# Cqlnx
 
-<!--
-**cqlnx/cqlnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer coding mostly for fun.
 
-Here are some ideas to get you started:
+**Website:** https://noks.pics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** JavaScript, Python, HTML
+
+**Main project:**  
+Real-time Minecraft server monitoring with Discord notifications and analytics dashboards. Monitor server uptime, player counts, and health across Java and Bedrock editions.<br>
+Website: https://mcuptime.xyz<br>
+Discord: https://dsc.gg/mcuptime<br>
+Documentation: https://mcuptime.xyz/docs
+
+Always learning by building.
+
+![](https://komarev.com/ghpvc/?username=cqlnx-alt&amp;style=for-the-badge)
