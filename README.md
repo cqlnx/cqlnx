@@ -7,7 +7,6 @@ If a server exists, it’s likely in the database.
 
 **Main project:**  
 MineScan — Minecraft server discovery system. Scans public servers and exposes structured data via API.
-
 Website: https://minescan.xyz  
 Discord: https://discord.gg/AYbDNEWgHE  
 
