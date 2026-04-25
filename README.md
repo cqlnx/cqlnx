@@ -1,17 +1,20 @@
 # Cqlnx
 
-Self-taught developer coding mostly for fun.
+Minecraft server discovery & indexing tool.  
+If a server exists, it’s likely in the database.
 
-**Website:** https://noks.pics
-
-**Languages:** JavaScript, Python, HTML
+**Languages:** JavaScript, Python, HTML, Rust
 
 **Main project:**  
-Real-time Minecraft server monitoring with Discord notifications and analytics dashboards. Monitor server uptime, player counts, and health across Java and Bedrock editions.<br>
-Website: https://mcuptime.xyz<br>
-Discord: https://dsc.gg/mcuptime<br>
-Documentation: https://mcuptime.xyz/docs
+MineScan — Minecraft server indexing and discovery system. Collects, organizes, and serves server data for analysis and lookup.<br>
+Website: https://minescan.xyz<br>
+Discord: https://discord.gg/AYbDNEWgHE  
 
-Always learning by building.
+**Other projects:**  
+mchoneypot — Minecraft honeypot server for monitoring and research  
+mcprobe — Minecraft server scanner and probing tool  
+MineScan Discord bot — Discord bot that servers data from https://api.minescan.xyz
 
-![](https://komarev.com/ghpvc/?username=cqlnx-alt&amp;style=for-the-badge)
+Always building and experimenting.
+
+![](https://komarev.com/ghpvc/?username=cqlnx-alt&style=for-the-badge)
