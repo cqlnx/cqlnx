@@ -6,14 +6,18 @@ If a server exists, it’s likely in the database.
 **Languages:** JavaScript, Python, HTML, Rust
 
 **Main project:**  
-MineScan — Minecraft server indexing and discovery system. Collects, organizes, and serves server data for analysis and lookup.<br>
-Website: https://minescan.xyz<br>
+MineScan — Minecraft server indexing and discovery system. Scans publicly reachable servers and exposes structured server data through an API for search and analysis.  
+Website: https://minescan.xyz  
 Discord: https://discord.gg/AYbDNEWgHE  
+
+**Stats:**  
+- 500,000+ Minecraft servers indexed  
+- 1,500,000+ unique players observed through server activity  
 
 **Other projects:**  
 mchoneypot — Minecraft honeypot server for monitoring and research  
 mcprobe — Minecraft server scanner and probing tool  
-MineScan Discord bot — Discord bot that serves data from https://api.minescan.xyz
+MineScan Discord bot — Discord bot that serves data from https://api.minescan.xyz  
 
 Always building and experimenting.
 
