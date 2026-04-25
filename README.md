@@ -6,7 +6,7 @@ If a server exists, it’s likely in the database.
 **Languages:** JavaScript, Python, HTML, Rust
 
 **Main project:**  
-MineScan — Minecraft server indexing and discovery system. Scans publicly reachable servers and exposes structured server data through an API for search and analysis.  
+MineScan — Minecraft server discovery system. Scans public servers and exposes structured data via API.
 Website: https://minescan.xyz  
 Discord: https://discord.gg/AYbDNEWgHE  
 
