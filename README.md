@@ -13,7 +13,7 @@ Discord: https://discord.gg/AYbDNEWgHE
 **Other projects:**  
 mchoneypot — Minecraft honeypot server for monitoring and research  
 mcprobe — Minecraft server scanner and probing tool  
-MineScan Discord bot — Discord bot that servers data from https://api.minescan.xyz
+MineScan Discord bot — Discord bot that serves data from https://api.minescan.xyz
 
 Always building and experimenting.
 
