@@ -12,8 +12,8 @@ Repository: https://github.com/cqlnx/MineScan
 Discord: https://discord.gg/AYbDNEWgHE  
 
 **Stats:**  
-- 500,000+ Minecraft servers indexed  
-- 1,500,000+ unique players observed through server activity  
+- 550,000+ Minecraft servers indexed  
+- 1,800,000+ unique players observed through server activity  
 
 **Other projects:**  
 mchoneypot — Minecraft honeypot server for monitoring and research  
