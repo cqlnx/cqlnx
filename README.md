@@ -11,7 +11,7 @@ Website: https://minescan.xyz
 Repository: https://github.com/cqlnx/MineScan  
 Discord: https://discord.gg/AYbDNEWgHE  
 
-![Servers](https://img.shields.io/badge/dynamic/json?url=https://data.minescan.xyz/stats/countries&query=$.total_servers&label=Servers%20Indexed&color=green) ![Players Observed](https://img.shields.io/badge/dynamic/json?url=https://data.minescan.xyz/stats/whereis&query=$.total_players&label=Players%20Observed-2M%2B-blue)
+![Servers](https://img.shields.io/badge/dynamic/json?url=https://data.minescan.xyz/stats/countries&query=$.total_servers&label=Servers%20Indexed&color=green) ![Players Observed](https://img.shields.io/badge/dynamic/json?url=https://data.minescan.xyz/stats/whereis&query=$.total_players&label=Players%20Observed)
 
 **Other projects:**  
 mchoneypot — Minecraft honeypot server for monitoring and research  
