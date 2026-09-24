@@ -19,5 +19,5 @@ mcprobe — Minecraft server scanner and probing tool
 MineScan Discord bot — Discord bot that serves data from https://data.minescan.xyz  
 
 Always building and experimenting.
-
+ 
 ![](https://komarev.com/ghpvc/?username=cqlnx-alt&style=for-the-badge)
